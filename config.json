@@ -16,6 +16,8 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
+	"presets" : {"url": "http://spensapwo.ip-dynamic.com/moodle/", "username": ""},
+
     
     "font_sizes": [
         62.5,
@@ -26,7 +28,7 @@
     "siteurl": "http://spensapwo.ip-dynamic.com/moodle/",
     "sitename": "SMPN 1 Purwantoro",
     "multisitesdisplay": "",
-    "skipssoconfirmation": true,
+    "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
     "notificoncolor": "#f98012",
