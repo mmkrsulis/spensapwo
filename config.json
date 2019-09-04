@@ -1,0 +1,42 @@
+{
+    "app_id": "com.spensapwo.elearning",
+    "appname": "spensapwo",
+    "desktopappname": "e-Learning SMPN 1 Purwantoro",
+    "versioncode": 3710,
+    "versionname": "3.7.1",
+    "cache_update_frequency_usually": 420000,
+    "cache_update_frequency_often": 1200000,
+    "cache_update_frequency_sometimes": 3600000,
+    "cache_update_frequency_rarely": 43200000,
+    "default_lang": "en",
+    "languages": {
+        "en": "English",
+        "id": "Indonesian",
+        
+    },
+    "wsservice": "moodle_mobile_app",
+    "wsextservice": "local_mobile",
+    
+    "font_sizes": [
+        62.5,
+        75.89,
+        93.75
+    ],
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://spensapwo.ip-dynamic.com/moodle",
+    "sitename": "",
+    "multisitesdisplay": "",
+    "skipssoconfirmation": false,
+    "forcedefaultlanguage": false,
+    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "notificoncolor": "#f98012",
+    "statusbarbg": false,
+    "statusbarlighttext": false,
+    "statusbarbgios": "#f98012",
+    "statusbarlighttextios": true,
+    "statusbarbgandroid": "#df7310",
+    "statusbarlighttextandroid": true,
+    "statusbarbgremotetheme": "#000000",
+    "statusbarlighttextremotetheme": true,
+    "enableanalytics": false
+}
