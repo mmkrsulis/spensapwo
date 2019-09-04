@@ -22,8 +22,8 @@
         75.89,
         93.75
     ],
-    "customurlscheme": "SMPN 1 Purwantoro",
-    "siteurl": "http://spensapwo.ip-dynamic.com/moodle/login/index.php",
+    "customurlscheme": "spensapwo",
+    "siteurl": "http://spensapwo.ip-dynamic.com/moodle/",
     "sitename": "SMPN 1 Purwantoro",
     "multisitesdisplay": "",
     "skipssoconfirmation": true,
