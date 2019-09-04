@@ -1,6 +1,6 @@
 {
     "app_id": "com.spensapwo.elearning",
-    "appname": "spensapwo",
+    "appname": "SMPN 1 Purwantoro",
     "desktopappname": "e-Learning SMPN 1 Purwantoro",
     "versioncode": 3710,
     "versionname": "3.7.1",
@@ -26,7 +26,7 @@
     "siteurl": "http://spensapwo.ip-dynamic.com/moodle",
     "sitename": "SMPN 1 Purwantoro",
     "multisitesdisplay": "",
-    "skipssoconfirmation": false,
+    "skipssoconfirmation": true,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
     "notificoncolor": "#f98012",
