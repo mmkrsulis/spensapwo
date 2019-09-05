@@ -1,37 +1,42 @@
 {
   "project_info": {
-    "project_number": "213781086806",
-    "firebase_url": "https://spensapwo-c3ee1.firebaseio.com",
-    "project_id": "spensapwo-c3ee1",
-    "storage_bucket": "spensapwo-c3ee1.appspot.com"
+    "project_number": "694767596569",
+    "firebase_url": "https://moodlemobile-push.firebaseio.com",
+    "project_id": "moodlemobile-push",
+    "storage_bucket": "moodlemobile-push.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:213781086806:android:7d23bce9eacb6d02e731f7",
+        "mobilesdk_app_id": "1:694767596569:android:a4cdad4d168c9d1a",
         "android_client_info": {
           "package_name": "com.spensapwo.elearning"
         }
       },
       "oauth_client": [
         {
-          "client_id": "213781086806-khecldrssm1dsc8ka8m5umb50k961jt4.apps.googleusercontent.com",
+          "client_id": "694767596569-icveqqa2n56oh44l6ev1dr2oh67nh8il.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrn2jOBWvEszZXmxCxMmut-Fb1JKEVgMU"
+          "current_key": "AIzaSyCb2zogu0P_aZ2LNgdwzshWExITPKTXJyk"
+        },
+        {
+          "current_key": "AIzaSyDRT1HwT0gSsTty0whOVtoNKAh8SPrJXLE"
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 1
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "213781086806-khecldrssm1dsc8ka8m5umb50k961jt4.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
         }
       }
     }
