@@ -16,7 +16,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-	"presets" : {"url": "http://spensapwo.ip-dynamic.com/moodle/", "username": ""},
+	"presets" : {"url": "http://spensapwo.ip-dynamic.com/elearning/", "username": ""},
 
     
     "font_sizes": [
@@ -25,7 +25,7 @@
         93.75
     ],
     "customurlscheme": "spensapwo",
-    "siteurl": "http://spensapwo.ip-dynamic.com/moodle/",
+    "siteurl": "http://spensapwo.ip-dynamic.com/elearning/",
     "sitename": "SMPN 1 Purwantoro",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
